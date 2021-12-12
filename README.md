@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Foody App for the SmarVillage
 - 🌱 I’m currently learning **Flutter, Django**
 - 👯 I’m looking to collaborate with **other content creators**
-- ⚡ Fun fact **I love to watch anime and GYM.**
+- ⚡ Fun fact **I love to watch anime and gym.**
 <!--
 **HhmedHesham/HhmedHesham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
