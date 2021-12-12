@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
-
+<h3 align="center">A self-taught programmer and Otaku😜</h3>
+<!-- and born at very little age😜 -->
 - 🔭 I’m currently working on Foody App for the SmartVillage
 - 🌱 I’m currently learning **Flutter, Django**
 - 👯 I’m looking to collaborate with **other flutter developers**
