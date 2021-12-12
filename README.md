@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
+- 🔭 I’m currently working on Foody App for the SmarVillage
+- 🌱 I’m currently learning **Flutter, Django**
+- 👯 I’m looking to collaborate with **other content creators**
+- ⚡ Fun fact **I love to watch anime and GYM.**
 <!--
 **HhmedHesham/HhmedHesham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
