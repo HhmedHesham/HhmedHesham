@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught programmer and Otaku😜</h3>
 
 - 🔭 I’m currently Chilling :"D.
-- 🌱 I’m currently learning **Flutter, Node.js**
+- 🌱 I’m currently learning **Flutter, GC infrastrcutrue**
 - 👯 I’m looking to collaborate with **other flutter developers**
 - ⚡ Fun fact **I love to watch anime and gym.**
 
