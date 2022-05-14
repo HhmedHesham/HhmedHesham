@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A self-taught programmer and Otaku😜</h3>
+[![Linkedin:Ahmed](https://img.shields.io/badge/-Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-hesham-113436188/)](https://www.linkedin.com/in/ahmed-hesham-113436188/)
+![GitHub followers](https://img.shields.io/github/followers/HhmedHesham?label=Follow&style=social)
+
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
+
+- :mailbox: You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
+
+<img src="https://github.com/HhmedHesham/HhmedHesham/blob/output/github-contribution-grid-snake.gif" alt="Snake"/>
 
 - 🔭 I’m currently Chilling :"D.
 - 🌱 I’m currently learning **Flutter, GC infrastrcutrue**
