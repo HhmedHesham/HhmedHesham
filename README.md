@@ -12,10 +12,10 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
 
 - :mailbox: You can shoot me an email at heshama7793@gmail.com! I'll try to respond as soon as I can
-- 🔭 I’m currently Chilling :"D.
+- 🔭 I’m currently wowrking on Grduation Project :"D.
 - 🌱 I’m currently learning **Flutter, GC infrastrcutrue**
 - 👯 I’m looking to collaborate with **other flutter developers**
-- ⚡ Fun fact **I love to watch anime and gym.**
+- ⚡ Apart of my tech **I love to watch anime and gym.**
 
 <img src="https://github.com/HhmedHesham/HhmedHesham/blob/output/github-contribution-grid-snake.gif" alt="Snake"/>
 
