@@ -4,7 +4,11 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/HhmedHesham" />
 </p>
 <p align="center">
-
+<table><td>
+ <p >First of all, I love coding. From the moment I wrote my first program in c++ and manipulated it to print "Hello world" till this moment. My second main passion is that I love designing UI. For me, the more beautiful the app looked, the more time the user liked to spend in. So, mixing between a clean, well organized code and a beautiful, user-friendly app design is my main goal in my career.
+I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel.</p>
+        </td>
+</table>
 [![Linkedin:Ahmed](https://img.shields.io/badge/-Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-hesham-113436188/)](https://www.linkedin.com/in/ahmed-hesham-113436188/)  ![GitHub followers](https://img.shields.io/github/followers/HhmedHesham?label=Follow&style=social)
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
