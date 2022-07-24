@@ -15,7 +15,7 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 
 - :mailbox: You can shoot me an email at heshama7793@gmail.com! I'll try to respond as soon as I can
 - 🔭 I’m currently working on architecting cloud to customer's.
-- 🌱 I’m currently learning **Django, GC architecture**
+- 🌱 I’m currently learning **Django, Google Cloud architecture**
 - 👯 I’m looking to collaborate with **other flutter and google cloud developers**
 - ⚡ Apart of my tech **I love anime, movies and gym.**
 
