@@ -4,8 +4,7 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/HhmedHesham" />
 </p>
 <table><td>
- <p >First of all, I love coding. From the moment I wrote my first program in c++ and manipulated it to print "Hello world" till this moment. My second main passion is that I love automation. For me, time is the key, the more automated the process, the more client have time to drink his tea. So, mixing between a clean and well organized pipeline is my main goal in my career.
-I am a friendly DevOps Engineer and a Learning Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel.</p>
+ <p >FI am passionate about coding and automation, starting from my first C++ program to this day. I believe in creating efficient, automated processes to save time and enhance productivity. As a DevOps Engineer and Learning Enthusiast, I am committed to continuous self-improvement and seek opportunities to grow and excel in my career.</p>
         </td>
 </table>
 
@@ -13,7 +12,7 @@ I am a friendly DevOps Engineer and a Learning Enthusiast, who is obsessed with 
 
 - :mailbox: You can shoot me an email at heshama7793@gmail.com! I'll try to respond as soon as I can
 - 🔭 I’m currently working as a DevOps and Apigee Engineer by architecting GCP to customer's.
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **Git Actions**
 - 👯 I’m looking to collaborate with **other DevOps Engineers and google cloud developers**
 - ⚡ Apart of my tech **I love anime, movies and gym.**
 
