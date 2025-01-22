@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A self-taught Engineer and Otaku😜</h3>
+<h3 align="center">A self-taught Engineer</h3>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/HhmedHesham" />
 </p>
