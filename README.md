@@ -1,10 +1,6 @@
 <h1 align="center">Ahmed Hesham Ahmed</h1>
 <h3 align="center">Apigee Administrator & Cloud DevOps Engineer</h3>
 
-<p align="center">
-  <img alt="Profile Visitors" src="https://gpvc.arturio.dev/HhmedHesham" />
-</p>
-
 <p>
 I am a Cloud DevOps Engineer specializing in <strong>Apigee Edge</strong>, <strong>Google Cloud Platform (GCP)</strong>, <strong>Kubernetes</strong>, and <strong>Terraform</strong> to build secure, high-availability systems. My work involves architecting and automating complex environments, implementing CI/CD pipelines, and optimizing performance. I hold certifications including <em>Google Professional DevOps Engineer</em> and <em>Google Professional Cloud Architect</em>.
 </p>
